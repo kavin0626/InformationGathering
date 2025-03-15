@@ -1,4 +1,5 @@
-# EXPERIMENT-02- InformationGathering
+# EXP-02
+## INFORMATION GATHERING
 Information Gathering Techiques
 
 # To perform information gathering techniques
