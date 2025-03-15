@@ -1,4 +1,7 @@
-# InformationGathering
+# EXPERIMENT-02- InformationGathering
+Information Gathering Techiques
+
+# To perform information gathering techniques
 
 # AIM:
 
@@ -17,64 +20,38 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
-<<<<<<< HEAD
-### Pen Test Tools Categories:  
 
-Following Categories of pen test tools are identified for information gathering:
+## OUTPUT:
 
-Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
-http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
+![image](https://github.com/user-attachments/assets/f6826459-e76b-479e-987e-043ce5588b5c)
 
-### output
-![Alt text](whois.png)
+## Finding IP address:
+![image](https://github.com/user-attachments/assets/5d382dd1-0842-4471-8f27-44bb6db919b6)
 
-#### Finding IP address:
-ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-![Alt text](kali.png)
+## Finding Hosting Company
+![image](https://github.com/user-attachments/assets/d923edcb-2283-49b0-9cbc-404b9ce475fe)
 
-#### ip2location.com :
-Finding Hosting Company
-get further detail by using ip2location.com website.
-![ip2](https://github.com/Manoj162004/InformationGathering/assets/120365042/619062b3-411f-4a14-b949-d60ad9b95b41)
+## History of the Website
+![Screenshot 2025-03-07 133546](https://github.com/user-attachments/assets/e01e8db3-3670-4a99-894f-f39c289dd955)
 
 
-#### History of the website:
-https://web.archive.org/
+## Web server Fingerprint
+![image](https://github.com/user-attachments/assets/8e944f2a-d1c1-4345-9c67-880847f72d59)
 
-![webarchive](https://github.com/Manoj162004/InformationGathering/assets/120365042/30205ff8-2bae-4392-99c0-b430e96122c2)
+## nmap
+![image](https://github.com/user-attachments/assets/2d45942f-322c-4d75-a74b-9713bf743343)
 
+## Whatweb
+![image](https://github.com/user-attachments/assets/94faced7-3af9-4fed-853d-419396f26d76)
 
+## TCP Traceroute
+![image](https://github.com/user-attachments/assets/16af94dd-e038-4203-92e4-3295d57f4ac6)
 
-#### Webserver Fingerprinting:
+## UDP Traceroute
+![image](https://github.com/user-attachments/assets/2bd16e91-be60-4b67-9de9-2e206d402339)
 
-#### Netcat:
-![Alt text](netcat.png)
+## ICMP Traceroute
+![image](https://github.com/user-attachments/assets/59c3d7ea-b1f0-4b46-a9b7-8aa1532c3ccd)
 
- 
-#### nmap:
-![Alt text](nmap.png)
-
-#### Whatweb:
-
-![Alt text](whatweb.png)
-
-#### httprint
-
-![Alt text](httprint.png)
-
-### Tracing the Location
-#### TCP Traceroute:
-![tcptreceroute](https://github.com/Manoj162004/InformationGathering/assets/120365042/2f16c873-8fdd-44ce-82f7-c043389404de)
-
-#### UDP Traceroute:
-
-![udptraceroute](https://github.com/Manoj162004/InformationGathering/assets/120365042/48f6f804-3c6a-43c9-8d10-6eafd666a9d1)
-
-
-#### ICMP Traceroute:
-![Alt text](icmptraceroute.png)
-
-
-
-### RESULT:
+## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
